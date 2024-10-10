@@ -1,0 +1,13 @@
+{
+    "name": "Day",
+    "alias": "day",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Day\\Providers\\DayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

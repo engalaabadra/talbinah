@@ -1,0 +1,13 @@
+{
+    "name": "Specialty",
+    "alias": "specialty",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Specialty\\Providers\\SpecialtyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "VisitChat",
+    "alias": "VisitChat",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\VisitChat\\Providers\\VisitChatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

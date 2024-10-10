@@ -1,0 +1,13 @@
+{
+    "name": "ArticleCategory",
+    "alias": "ArticleCategory",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ArticleCategory\\Providers\\ArticleCategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "VisitCall",
+    "alias": "VisitCall",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\VisitCall\\Providers\\VisitCallServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
